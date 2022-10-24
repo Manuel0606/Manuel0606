@@ -39,3 +39,43 @@ diseño y arquitectura software.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+
+## Muestra de algunos proyectos:
+  
+  
+<table style="width:100%">
+  <tr>
+    <td>
+  		<img src="https://user-images.githubusercontent.com/64750064/197629997-947bcdb2-8104-46cc-b066-1d6d285d310d.png">
+	  </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/64750064/197630004-b0996f73-e84a-4c4b-af5d-2358fef46b0c.png">
+	  </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/64750064/197630006-7c696261-3f55-4315-87b9-d387891be6eb.png">
+	  </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/64750064/197633846-c4da9484-7cf5-4030-b10f-31a5476a614d.png">
+	  </td>
+	<td>
+<!--   		<img src=""> -->
+	</td>
+   <td>
+<!--   		<img src=""> -->
+	</td>
+  </tr>
+    <tr>
+    <td>
+<!--   		<img src=""> -->
+	</td>
+	<td>
+<!--   		<img src=""> -->
+	</td>
+   <td>
+<!--   		<img src=""> -->
+	</td>
+  </tr>
+</table>
+
