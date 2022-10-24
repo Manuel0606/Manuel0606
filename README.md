@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Manuel Comezaña ⚡
 
 <!--
 **Manuel0606/Manuel0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Soy un estudiante de Ingeniería de Sistemas en últimos semestres 
+con habilidades de programación, alta capacidad de aprendizaje
+autónomo y liderazgo. Con intereses en prácticas de calidad,
+diseño y arquitectura software.
