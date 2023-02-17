@@ -40,7 +40,7 @@ diseño y arquitectura software.
 </br>
 Y alguna más...
 
-## Muestra de algunos proyectos:
+<!-- ## Muestra de algunos proyectos:
   
   
 <table style="width:100%">
@@ -78,4 +78,4 @@ Y alguna más...
 	</td>
   </tr>
 </table>
-
+ -->
