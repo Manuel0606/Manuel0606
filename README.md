@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy un estudiante de Ingeniería de Sistemas en últimos semestres 
-con habilidades de programación, alta capacidad de aprendizaje
+Ingeniero en Sistemas habilidades de programación, alta capacidad de aprendizaje
 autónomo y liderazgo. Con intereses en prácticas de calidad,
 diseño y arquitectura software.
 
